@@ -1,0 +1,3 @@
+# remove .env file
+/.env
+/.DS_Store
